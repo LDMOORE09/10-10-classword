@@ -1,0 +1,46 @@
+
+
+
+
+
+header h1,  {
+    padding-left: 50px;
+}
+
+
+/* nav bar */
+
+nav {
+    background-color: #008000;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+ul a {
+    font: bold;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem;
+    color: #ffffff
+    ;
+}
+
+ul a:hover {
+    background-color: black;
+    color: #9ae39a
+}
+
+/* Home Page Main Image */
+main article img {
+    border: double 3px #333;
+    float: left;
+    margin-top: .5rem;
+    margin-right: 1rem;
+    margin-bottom: .5rem;
+}
+
+/* Home Page Bottom Columns /*
